@@ -6,7 +6,7 @@
 ## 1. Descripción
 
 Automatización construida en Make.com que permite tomar una foto de una
-planta y enviarla a un bot de Telegram (`@Newecosistema`) para recibir, en
+planta y enviarla a un bot de Telegram (`@Biodiversidad_bot`) para recibir, en
 segundos, un diagnóstico completo: nombre común y científico, si se ve
 sana, detalles a vigilar, frecuencia de riego y un tip de cuidado.
 
