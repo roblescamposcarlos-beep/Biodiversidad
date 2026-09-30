@@ -100,7 +100,8 @@ envía texto sin foto:
 
 ## 7. Video de la prueba en vivo
 
-[Ver la prueba en YouTube](https://youtu.be/gfhIr9WsD9o)
+[Ver la prueba en YouTube](https://youtu.be/I1Clpw04SBs) — "Funcionamiento del
+bot de biodiversidad y su escenario en Make" (2:43)
 
 Enlace también en [`video/enlace.txt`](video/enlace.txt).
 
